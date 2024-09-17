@@ -47,15 +47,17 @@ div{
     background-color: #ff0000;
     text-align: right;
     margin-left:50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border:none;
+    border-bottom: #fff 2px solid;
+    border-left: #fff solid 5px;
 }
 .blue{
     background-color: #00f;
-    text-align: right;
-    margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    text-align: left;
+    margin-right: 50px;
+    border:none;
+    border-top: #fff 2px solid;
+    border-right: #fff 5px solid;
 }
 
 .blue p, .blue h2{
@@ -66,8 +68,9 @@ div{
     background-color: #ff0;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left:5px;
+    border:none;
+    border-bottom: #fff 2px solid;
+    border-left: #fff 5px solid;
 }
 
 .yellow p{
@@ -78,8 +81,9 @@ div{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px;
-    margin-top:2px;
+    border: none;
+    border-right: #fff 5px solid;
+    border-top: #fff 2px solid;
 }
 
 footer{
